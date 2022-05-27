@@ -1,0 +1,100 @@
+h2{
+    text-align: center;
+    position: absolute;
+    top: 8%;
+    left: 16%;
+}
+
+.button1{
+    width: 200px;
+    height: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: skyblue;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 17px;
+
+}
+
+
+
+    
+
+
+.buttong{
+    background-color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 28%;
+    left: 20%;
+    font-size: 17px;
+
+
+}
+
+.button3{
+    background-color: limegreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 36%;
+    font-size: 17px;
+
+    left: 20%;
+}
+
+.button4{
+
+    background-color: lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 44%;
+    left: 20%;
+    font-size: 17px;
+
+}
+
+.button5{
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 52%;
+    left: 20%;
+    font-size: 17px;
+
+
+}
+
+.button6{
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 400px;
+    height: 50px;
+    border: 1px solid black;
+    box-shadow: 3px 3px lightgrey;
+    position: absolute;
+    top: 60%;
+    left: 14%;
+    font-size: 17px;
+
+    
+
+}
